@@ -4,6 +4,12 @@ A web-based tool to generate print-ready passport photo sheets from uploaded ima
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch Demo](preview.png)](https://youtu.be/EOUZv_Rjamg)
+
+---
+
 ## 🚀 Features
 
 - **Multi-photo upload** — drag & drop or click to upload one or more photos at once
