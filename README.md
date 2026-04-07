@@ -8,13 +8,14 @@ A web-based tool to generate print-ready passport photo sheets from uploaded ima
 
 https://passport-photo-pro-wpyn.onrender.com/
 
+⚠️ Note: This app is hosted on a free server, so the first load may take 30–50 seconds.
+
 ---
 
 ## 🎥 Demo Video
 
 [![Watch Demo](preview.png)](https://youtu.be/EOUZv_Rjamg)
 
-⚠️ Note: This app is hosted on a free server, so the first load may take 30–50 seconds.
 ---
 
 ## 🚀 Features
